@@ -2,7 +2,7 @@
 
 ## Panda
 ```python
-import panda as pd
+import pandas as pd
 ```
 
 ## How to read data
