@@ -35,7 +35,7 @@ melbourne_data = melbourne_data.dropna(axis=0)
 ```
 <img width="1350" height="272" alt="image" src="https://github.com/user-attachments/assets/64665374-a27b-4928-9e99-c1d316d8c0e5" />
 
-## Selecting The Prediction Target (As $${\color{Y}Red}$$)
+## Selecting The Prediction Target (As $${\color{Red}Y}$$)
 ### To select specific column, for example, to choose price:
 ```python
 y = melbourne_data.Price
