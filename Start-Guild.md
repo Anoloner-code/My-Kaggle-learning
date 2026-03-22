@@ -51,8 +51,9 @@ melbourne_features = ['Rooms', 'Bathroom', 'Landsize', 'Lattitude', 'Longtitude'
 X = melbourne_data[melbourne_features]
 X.describe()
 ```
-<img width="953" height="418" alt="image" src="https://github.com/user-attachments/assets/73ff30e6-7a8e-4f87-86c0-9afddbe2bc08" />
-### Use `.head()` to get the top few rows
+<img width="698" height="418" alt="image" src="https://github.com/user-attachments/assets/73ff30e6-7a8e-4f87-86c0-9afddbe2bc08" />
+
+### Use '.head()'to get the top few rows
 <img width="698" height="297" alt="image" src="https://github.com/user-attachments/assets/035951b2-dd07-4416-9c06-c1121fe31ec7" />
 
 
