@@ -89,7 +89,7 @@ from sklearn.metrics import mean_absolute_error
 predicted_home_prices = melbourne_model.predict(X)
 mean_absolute_error(y, predicted_home_prices)
 ```
-**The scikit-learn library has a function train_test_split to break up the data into two pieces.**
+**The scikit-learn library has a function train_test_split to break up the data into two pieces.**\n
 **We'll use some of that data as training data to fit the model, and we'll use the other data as validation data to calculate mean_absolute_error.**
 ```python
 from sklearn.model_selection import train_test_split
