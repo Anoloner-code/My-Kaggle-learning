@@ -14,7 +14,8 @@ melbourne_file_path = '../input/melbourne-housing-snapshot/melb_data.csv'
 melbourne_data = pd.read_csv(melbourne_file_path) 
 # print a summary of the data in Melbourne data
 melbourne_data.describe()
-<img width="1581" height="453" alt="image" src="https://github.com/user-attachments/assets/fb685859-f685-45bd-97fa-e8e32462dfbe" />
 ```
+<img width="1581" height="453" alt="image" src="https://github.com/user-attachments/assets/6238b429-f4e7-4fe3-a8d5-3f8ff8938601" />
+
 
 
