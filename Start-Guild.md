@@ -57,7 +57,7 @@ X.describe()
 <img width="698" height="297" alt="image" src="https://github.com/user-attachments/assets/035951b2-dd07-4416-9c06-c1121fe31ec7" />
 
 ## Concept
-### We are using X (input) to get (Y)
+### We are using X (input) to get Y (Prediction result) 
 ### ML in a nutshell:
 ```python
 model = SomeModel()
