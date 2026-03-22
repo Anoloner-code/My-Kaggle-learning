@@ -56,6 +56,37 @@ X.describe()
 ### Use `.head()` to get the top few rows
 <img width="698" height="297" alt="image" src="https://github.com/user-attachments/assets/035951b2-dd07-4416-9c06-c1121fe31ec7" />
 
+## Concept
+### We are using X (input) to get (Y)
+### ML in a nutshell:
+```python
+model = SomeModel()
+model.fit(X, y)
+predictions = model.predict(X)
+```
+### Then Translate into our language:
+### “Create a brain”
+``` python
+# Define model. Specify a number for random_state to ensure same results each run
+melbourne_model = DecisionTreeRegressor(random_state=1)
+```
+### “Train the brain using examples”
+```python
+# Fit model
+melbourne_model.fit(X, y)
+```
+### More specifically, in their terms we call this process in steps:
+- **Define**: What type of model will it be? A decision tree? Some other type of model? Some other parameters of the model type are specified too.
+- **Fit** Capture patterns from provided data. This is the heart of modeling.
+- **Predict** It's just, predict, yeah.
+- **Evaluate** Determine how accurate the model's predictions are.
+
+
+
+
+
+
+
 
 
 
