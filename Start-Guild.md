@@ -77,9 +77,9 @@ melbourne_model.fit(X, y)
 ```
 ### More specifically, in their terms we call this process in steps:
 - **Define**: What type of model will it be? A decision tree? Some other type of model? Some other parameters of the model type are specified too.
-- **Fit** Capture patterns from provided data. This is the heart of modeling.
-- **Predict** It's just, predict, yeah.
-- **Evaluate** Determine how accurate the model's predictions are.
+- **Fit**: Capture patterns from provided data. This is the heart of modeling.
+- **Predict**: It's just, predict, yeah.
+- **Evaluate**: Determine how accurate the model's predictions are.
 
 
 
