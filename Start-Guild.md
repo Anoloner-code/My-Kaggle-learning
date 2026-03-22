@@ -42,4 +42,4 @@ y = melbourne_data.Price
 ```
 
 ## Selecting features
-### 
+### > The columns that are inputted into our model (and later used to make predictions) are called "features."
